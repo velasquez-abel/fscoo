@@ -2,3 +2,6 @@
 
 # webstorm project settings
 .idea/
+
+# app para pruebas de codigo y conceptos
+fscoo-test/
